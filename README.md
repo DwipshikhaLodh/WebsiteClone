@@ -1,8 +1,17 @@
-# React + Vite
+# Website Design 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#### The Steps for running the application locally:
 
-Currently, two official plugins are available:
+- open the folder with vs code
+- open terminal
+- write the script
+  > npm run dev
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Now we have our application running on the given port through which we get redirected to our Website. 
+
+#### I had to perform the following steps: 
+- create a react+vite project
+  > npm create vite@latest "folder1"
+- install tailwind css
+  > npm install -D tailwindcss postcss autoprefixer
+- set up the tailwindcss in the files

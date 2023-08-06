@@ -4,7 +4,7 @@ function About() {
     return (
         <div className='flex flex-col justify-center items-center w-full mt-16 mb-16'>
 
-        <div className='flex flex-col justify-center items-center w-2/5'>
+        <div className='flex flex-col justify-center items-center lg:w-2/5 w-full'>
           <h1 className='text-2xl font-bold w-3/4 text-center'>
             Advanced Ai tool to create a legal brief like human
           </h1>
